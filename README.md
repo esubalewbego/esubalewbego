@@ -10,9 +10,9 @@
   <i>I build apps, secure systems, train models, manage and document project — content creating.</i>
 </p>
 
-<p align="center">
+<!--<p align="center">
   <img src="https://komarev.com/ghpvc/?username=esubalewbego&label=Profile+Views&color=9f1fff&style=flat-square" alt="Profile views"/>
-</p>
+</p>-->
 
 </p>
 
