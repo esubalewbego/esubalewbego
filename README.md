@@ -28,19 +28,14 @@
 ## 🚀 My Universe – Code + Create + Inspire
 
 <div align="center">
-<p align="center">
-  <strong>By Saying Content Creating (not about tech).</strong>
-</p>
-<b>Writing • Recording • Editing • Posting • Performing</b>
-<br><br>
-  
-<img src="https://cdn.worldvectorlogo.com/logos/wps-office.svg" height="55"/>
-<img src="https://cdn.worldvectorlogo.com/logos/capcut-1.svg" height="50"/>
-<img src="https://cdn.worldvectorlogo.com/logos/adobe-premiere-pro-1.svg" height="70"/>
-<img src="https://cdn.worldvectorlogo.com/logos/youtube.svg" height="50"/>
-<img src="https://cdn.worldvectorlogo.com/logos/tiktok-1.svg" height="50"/>
-  
-<br><br>
+
+## By Saying Content Creating It Isn't About Techs
+
+| Writing                  | Recording                  | Editing                       | Posting                       | Performing             |
+|--------------------------|----------------------------|-------------------------------|-------------------------------|------------------------|
+|<img src="https://cdn.worldvectorlogo.com/logos/wps-office.svg" height="50"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Notion-logo.svg/100px-Notion-logo.svg.png" height="55"/>  | <img src="https://img.icons8.com/color/48/camera.png" height="55"/> <img src="https://simpleicons.org/icons/obsstudio.svg" height="55"/><img src="https://img.icons8.com/color/48/fl-studio.png" height="55"/> | <img src="https://simpleicons.org/icons/davinciresolve.svg" height="55"/> <br> <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/adobe-premiere-pro-icon.png" height="55"/> <br> <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/adobe-after-effects-icon.png" height="55"/>| <img src="https://cdn.worldvectorlogo.com/logos/tiktok-1.svg" height="55"/> <br><img src="https://simpleicons.org/icons/instagram.svg" height="48"/> <br><img src="https://cdn.worldvectorlogo.com/logos/youtube.svg" height="45"/> | <img src="https://img.icons8.com/ios-filled/50/000000/microphone.png" height="55"/> |
+
+<br>
 
 ## Tech Stack & Learning Journey
 
@@ -54,7 +49,7 @@
 
 | Testing (Learning In progress)                   | Deployment (Learning Soon)              | Tools That Bring Ideas to Life           |
 |-----------------------------------------|-----------------------------------------|------------------------------------------|
-| <img src="https://www.vectorlogo.zone/logos/getpostman/postman-icon.svg" height="55"/> | <img src="https://cdn.worldvectorlogo.com/logos/vercel.svg" height="55"/> <img src="https://cdn.worldvectorlogo.com/logos/netlify.svg" height="55"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="55"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="55"/> <img src="https://rork.com/favicon.ico" height="55"/> <img src="https://cursor.com/favicon.ico" height="55"/> |
+| <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postman-icon.png" height="55" /> | <img src="https://cdn.worldvectorlogo.com/logos/vercel.svg" height="55"/> <img src="https://cdn.worldvectorlogo.com/logos/netlify.svg" height="55"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="55"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="55"/> <br> <img src="https://rork.com/favicon.ico" height="55"/> <img src="https://cursor.com/favicon.ico" height="55"/> |
 <br>
 
 
@@ -78,9 +73,6 @@
 <br><br>
 
 ### 🔐 Cybersecurity (Future Focus!)
-<img src="https://cdn.worldvectorlogo.com/logos/kali-linux-1.svg" height="50"/>
-<img src="https://cdn.worldvectorlogo.com/logos/metasploit-1.svg" height="50"/>
-<img src="https://simpleicons.org/icons/nmap.svg" height="50" style="filter: brightness(0) invert(1)"/>
 <br><b>Next steps: Ethical Hacking • Penetration Testing • TryHackMe • HTB</b>
 
 <br></br>
@@ -92,7 +84,7 @@
   <img src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg" height="50"/>
 </a>
 <a href="https://t.me/Mrr10k">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/telegram/telegram-original.svg" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" height="50" />
 </a>
 
 <br><br>
