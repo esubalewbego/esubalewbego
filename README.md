@@ -25,7 +25,7 @@
 
 <br><br>
 
-## 🚀 My Universe – Code + Create
+## 🚀 My Universe – Code + Create + Inspire
 
 <div align="center">
 <p align="center">
@@ -128,7 +128,7 @@
 <br></br>
 <div align="center">
 
-## Let's Connect & Build Together!
+## Contact Me Using!
 
 <a href="mailto:your.esubalewbego9@gmail.com">
   <img src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg" height="50"/>
