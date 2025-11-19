@@ -42,53 +42,21 @@
   
 <br><br>
 
-## 🚀 Tech Stack & Learning Journey
+## Tech Stack & Learning Journey
 
-<div align="center">
+| Frontend / Web                          | Backend                                 | Mobile / Cross-Platform                  |
+|-----------------------------------------|-----------------------------------------|------------------------------------------|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="55"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="55"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="55"/><br>Learning **React** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="55"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="55"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="55"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="55"/><br>Learning **Node.js** & **PHP** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="55"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="55"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/reactnative/reactnative-original.svg" height="55"/><br>Learning All of them Currently |
 
-### 💻 Programming
-| Frontend / Web | Backend | Mobile / Cross-Platform (learning In Progress) |
-|----------------|-------|--------------------------|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45"/> <br>Learning **React** & **Flutter** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45"/> <br>Learning **Node.js** & **PHP** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="50"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/reactnative/reactnative-original.svg" height="50"/>
+| UI/UX Design                            | Version Control                         | Databases                                |
+|-----------------------------------------|-----------------------------------------|------------------------------------------|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="55"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="55"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="55"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="55"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg" height="55"/><br><i>Currently exploring MongoDB & Firebase</i> |
 
-
-### UI/UX Design
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="55"/>
-
+| Testing (Learning In progress)                   | Deployment (Learning Soon)              | Tools That Bring Ideas to Life           |
+|-----------------------------------------|-----------------------------------------|------------------------------------------|
+| <img src="https://www.vectorlogo.zone/logos/getpostman/postman-icon.svg" height="55"/> | <img src="https://cdn.worldvectorlogo.com/logos/vercel.svg" height="55"/> <img src="https://cdn.worldvectorlogo.com/logos/netlify.svg" height="55"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="55"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="55"/> <img src="https://rork.com/favicon.ico" height="55"/> <img src="https://cursor.com/favicon.ico" height="55"/> |
 <br>
 
-<br>
-
-### 📍 Version Control
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="55"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="55"/>
-
-<br><b>Git • GitHub</b> → Branching, Pull Requests, Collaboration
-
-<br><br>
-
-### 🗄️ Databases
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="50"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="50"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg" height="50"/>
-<br><i>Currently exploring MongoDB & Firebase</i>
-
-<br>
-<br><br>
-
-### Testing (learning In Progress)
-<img src="https://www.vectorlogo.zone/logos/getpostman/postman-icon.svg" height="50"/>
-
-<br><br>
-
-### 🚀 Deployment (Learning Soon)
-<img src="https://cdn.worldvectorlogo.com/logos/vercel.svg" height="50"/>
-<img src="https://cdn.worldvectorlogo.com/logos/netlify.svg" height="50"/>
-<img src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg" height="50"/>
-<br><b>Vercel • Netlify • Firebase Hosting</b> → Deploying apps live (Next on the list!)
-
-<br><br>
 
 ### Data Science & Machine Learning (Learning In progress!)
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60"/>
@@ -114,16 +82,6 @@
 <img src="https://cdn.worldvectorlogo.com/logos/metasploit-1.svg" height="50"/>
 <img src="https://simpleicons.org/icons/nmap.svg" height="50" style="filter: brightness(0) invert(1)"/>
 <br><b>Next steps: Ethical Hacking • Penetration Testing • TryHackMe • HTB</b>
-
-<br>
-
-<br></br>
-
-## Tools I Used to Bring My Project ideas to Real Life
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="45"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40"/>
-<img src="https://rork.com/favicon.ico" height="60"/>
-<img src="https://cursor.com/favicon.ico" height="60"/>
 
 <br></br>
 <div align="center">
