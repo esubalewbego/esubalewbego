@@ -86,6 +86,9 @@
 <a href="https://t.me/Mrr10k">
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" height="50" />
 </a>
+<a href="https://esubalewbego.vercel.app">
+  <img src="https://cdn-icons-png.flaticon.com/512/1005/1005141.png" alt="Portfolio" height="50" />
+</a>
 
 <br><br>
 
