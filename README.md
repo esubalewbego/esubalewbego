@@ -89,7 +89,9 @@
 <a href="https://esubalewbego.vercel.app">
   <img src="https://cdn-icons-png.flaticon.com/512/1005/1005141.png" alt="Portfolio" height="50" />
 </a>
-
+<a href="https://www.linkedin.com/in/esubalew-bego-650289402?utm_source=share_via&utm_content=profile&utm_medium=member_android">
+  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn Profile" height="50" />
+</a>
 <br><br>
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250"/>
